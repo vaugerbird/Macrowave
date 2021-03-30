@@ -3,7 +3,7 @@
 
 #### Instagram post: https://www.instagram.com/p/CM-JgP3nJkw/
 
-#### Original OneDrive host: https://1drv.ms/u/s!AqMvwiYIMMtm6iqE6NJ_T69pecXU?e=hgXPO9:
+#### Original OneDrive host: https://1drv.ms/u/s!AqMvwiYIMMtm6iqE6NJ_T69pecXU?e=hgXPO9
 --------------------------------
 
 This is a guide to making the Macrowave by Ampersand. 
