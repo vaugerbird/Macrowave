@@ -1,6 +1,8 @@
 # Macrowave by Ampersand/swirlybeard
 **I, vaugerbird, take *zero* responsibilty for any of the files available in this repository. I have only posted them here for personal storage and remixing purposes. Any text beyond this line is original from Ampersand (with some edits to make GitHub markdown work).**
 
+Instagram post: https://www.instagram.com/p/CM-JgP3nJkw/
+Original OneDrive host: https://1drv.ms/u/s!AqMvwiYIMMtm6iqE6NJ_T69pecXU?e=hgXPO9:
 --------------------------------
 
 This is a guide to making the Macrowave by Ampersand. 
